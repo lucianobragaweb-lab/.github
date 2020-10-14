@@ -1,8 +1,13 @@
 {
-    "name": "Teste Pipeline",
-    "description": "Apenas um teste",
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
     "iconName": "lab",
     "categories": [
-        "C#"
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
     ]
 }
