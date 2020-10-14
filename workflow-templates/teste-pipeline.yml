@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: Sample Workflow
 
 on:
   push:
@@ -13,5 +13,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: Run a one-line script
-      run: echo Hello from Octo Organization
+    - name: Running Sample Workflow Script
+      run: echo Hello from Luciano Braga's Lab

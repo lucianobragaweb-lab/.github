@@ -1,13 +1,8 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
+    "name": "Sample Workflow",
+    "description": "Luciano Braga's Lab Sample Workflow template",
     "iconName": "lab",
     "categories": [
-        "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
+        "js"
     ]
 }
