@@ -1,5 +1,8 @@
 {
     "name": "Teste Pipeline",
     "description": "Apenas um teste",
-    "iconName": "lab"
+    "iconName": "lab",
+    "categories": [
+        "C#"
+    ]
 }
